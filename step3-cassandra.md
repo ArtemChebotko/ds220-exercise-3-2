@@ -36,7 +36,7 @@ CREATE TABLE videos_count_by_tag (
 
 ✅ Execute `videos_count_by_tag.cql` script:
 ```
-SOURCE 'videos_count_by_tag.cql'
+SOURCE 'assets/videos_count_by_tag.cql'
 ```
 
 ✅ Run a query to display each category of tag and added year, along with the count of videos for each:
